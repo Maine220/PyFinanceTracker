@@ -38,7 +38,7 @@ Show Category Summary: View total expenses per category.
 
 Exit: Close the program.
 
-##Technologies Used
+## Technologies Used
 
 - Python 3
 - JSON for data storage
