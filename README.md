@@ -38,24 +38,9 @@ Show Category Summary: View total expenses per category.
 
 Exit: Close the program.
 
-## Project Structure
-PyFinanceTracker/
-├── main.py                  # CLI entry point
-├── finance_tracker/
-│   ├── __init__.py
-│   ├── tracker.py           # Transaction and FinanceTracker classes
-│   └── storage.py           # JSON save/load functions
-├── data/
-│   └── transactions.json    # Stored transactions
-├── .gitignore
-└── README.md
+##Technologies Used
 
-Technologies Used
-
-Python 3
-
-JSON for data storage
-
-Object-Oriented Programming (OOP)
-
-Command-Line Interface (CLI)
+- Python 3
+- JSON for data storage
+- Object-Oriented Programming (OOP)
+- Command-Line Interface (CLI)
