@@ -14,7 +14,7 @@ def main():
 
         if choice == '1':
             date = input("Date (YYYY-MM-DD): ")
-            category = input("Category: ")
+            category = input("Categories: \n[FOOD, BILL, GAS, MISCELLANEOUS]\nEnter: ")
             try:
                 amount = float(input("Amount: "))
             except ValueError:
